@@ -6,8 +6,8 @@ This project investigates whether the **Castle Doctrine**—a self-defense law a
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b218b426-2fb8-482d-a511-8581bff3fd6e" alt="flowchart" width="300" style="margin-right:15px;">
-  <img src="https://github.com/user-attachments/assets/dcfeb377-a59a-4011-af3b-7ffbce94d9f5" alt="image" width="250">
-  <img src="https://github.com/user-attachments/assets/acffd86c-6164-48ea-a69a-96141f40cbc9" alt="image" width="250">
+  <img src="https://github.com/user-attachments/assets/dcfeb377-a59a-4011-af3b-7ffbce94d9f5" alt="image" height = "400" width="250">
+  <img src="https://github.com/user-attachments/assets/acffd86c-6164-48ea-a69a-96141f40cbc9" alt="image" height = "400" width="250">
 </p>
 
 
