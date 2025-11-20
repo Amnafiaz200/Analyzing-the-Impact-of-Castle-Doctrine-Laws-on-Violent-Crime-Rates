@@ -29,6 +29,8 @@ After controlling for bias, the estimated effect is approximately **+1.41 homici
 - **Visualization & Diagnostics:** Checked assumptions (e.g., parallel trends) and visualized treatment effects over time.  
 
 ---
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/99e520d9-7a27-4b36-8443-46ea0a3c4227" />
+
 
 ## 💻 Tools & Libraries
 
