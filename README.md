@@ -5,11 +5,10 @@
 This project investigates whether the **Castle Doctrine**—a self-defense law adopted by some U.S. states—has a measurable effect on homicide rates. Instead of simple correlations, we use **causal inference techniques** to provide a nuanced, reliable estimate of the law’s impact.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b218b426-2fb8-482d-a511-8581bff3fd6e" alt="flowchart" width="300" style="margin-right:15px;">
-  <img src="https://github.com/user-attachments/assets/dcfeb377-a59a-4011-af3b-7ffbce94d9f5" alt="image" height = "400" width="250">
-  <img src="https://github.com/user-attachments/assets/acffd86c-6164-48ea-a69a-96141f40cbc9" alt="image" height = "400" width="250">
+  <img src="https://github.com/user-attachments/assets/b218b426-2fb8-482d-a511-8581bff3fd6e" alt="flowchart" height="300" style="margin-right:15px;">
+  <img src="https://github.com/user-attachments/assets/dcfeb377-a59a-4011-af3b-7ffbce94d9f5" alt="image" height="300" style="margin-right:15px;">
+  <img src="https://github.com/user-attachments/assets/acffd86c-6164-48ea-a69a-96141f40cbc9" alt="image" height="300">
 </p>
-
 
 ---
 
